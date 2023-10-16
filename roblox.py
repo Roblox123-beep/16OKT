@@ -1,3 +1,3 @@
-for i in range(15,90):
-    if i%5 == 0 and i%3 == 0 and i%2 == 0:
-        print(i)
+for skaitlis in range(15, 90):
+    if skaitlis%5 == 0 and skaitlis%3 == 0 and skaitlis%2 == 0:
+        print(skaitlis)
